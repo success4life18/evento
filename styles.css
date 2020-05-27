@@ -1,0 +1,202 @@
+* {
+    text-decoration: none;
+  }
+  
+  .navbar,
+  .sidenav-toggler,
+  .signout-btn,
+  .button {
+    background-color: blue;
+  }
+  
+/*  .navbar, .sidenav-toggler, .signout-btn, .button {
+    background-color: #d31f0d !important;
+}
+
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+*/
+  .signout-link {
+    font-size: 18px;
+    font-weight: 900;
+  }
+  .texts {
+    text-align: center;
+  }
+  
+  .navbar-sidenav,
+  .sidenav-second-level {
+    background-color: #ffffff;
+  }
+  
+  header .brand-name {
+    font-family: Verdana;
+  
+    font-size: 18px;
+  
+    font-weight: 900;
+  }
+  
+  .media-body {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 12px !important;
+    font-weight: 800 !important;
+    white-space: normal !important;
+    word-wrap: break-word !important;
+  }
+  
+  .title {
+    color: blue;
+  }
+  
+  .listing-form {
+    margin-left: 16px;
+  
+    margin-right: 16px;
+  
+    margin-bottom: 16px;
+  }
+  
+  .display-4 {
+    text-align: center;
+  }
+  
+  /* 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .signup-form{
+  
+      background-image: url('bg-2.jpg');
+  
+      background-repeat: no-repeat;
+  
+      background-position: center;
+  
+      background-size: cover;
+  
+      height: 100vh;
+  
+  }
+  
+  
+  
+  .signupbox {
+  
+      width: 280px;
+  
+      position: absolute;
+  
+      top: 50%;
+  
+      left: 50%;
+  
+      transform: translate();
+  
+  } */
+  * {
+    text-decoration: none;
+  }
+  
+  .navbar,
+  .sidenav-toggler,
+  .signout-btn,
+  .button {
+    background-color: blue;
+  }
+  
+  .signout-link {
+    font-size: 18px;
+    font-weight: 900;
+  }
+  .texts {
+    text-align: center;
+  }
+  
+  .navbar-sidenav,
+  .sidenav-second-level {
+    background-color: #ffffff !important;
+  }
+  
+  header .brand-name {
+    font-family: Verdana;
+  
+    font-size: 18px;
+  
+    font-weight: 900;
+  }
+  
+  .media-body {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 12px !important;
+    font-weight: 800 !important;
+    white-space: normal !important;
+    word-wrap: break-word !important;
+  }
+  
+  .title {
+    color: blue;
+  }
+  
+  .listing-form {
+    margin-left: 16px;
+  
+    margin-right: 16px;
+  
+    margin-bottom: 16px;
+  }
+  
+  .display-4 {
+    text-align: center;
+  }
+  
+  /* 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  .signup-form{
+  
+      background-image: url('bg-2.jpg');
+  
+      background-repeat: no-repeat;
+  
+      background-position: center;
+  
+      background-size: cover;
+  
+      height: 100vh;
+  
+  }
+  
+  
+  
+  .signupbox {
+  
+      width: 280px;
+  
+      position: absolute;
+  
+      top: 50%;
+  
+      left: 50%;
+  
+      transform: translate();
+  
+  } */
